@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm passionate about tech, coding, and building so
 ## 👀 Interests
 - Software development & clean code practices  
 - Web development (React, JavaScript, Html&Css)
-- 
-
+  
 
 ## 🌱 Currently Learning
 - React & Tailwind CSS for modern web apps
