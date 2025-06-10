@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about tech, coding, and building so
 
 ## 💞️ Looking to Collaborate On
 - Innovative front-end ideas 
-- Python-based projects
+
 
 ## 📫 How to Reach Me
 - Email: omar.dahmeni@outlook.com 
