@@ -12,9 +12,7 @@
 ## 🧠 About Me
 
 - 🎯 Dedicated Software Engineering student and a proficient Frontend Developer, consistently eager to learn and enhance my coding skills.
-- 🚀 Developed a fully functional commercial website using HTML, CSS, JavaScript, and PHP, focusing on responsive design and user experience.
-- 🧠 Achieved 3rd place at ISET Kr Coding Day, focused on AI innovation. Developed a Python-based application that analyzes student grades and generates personalized quizzes based on the provided course content.
-- 🎓 Pursuing a Licence of Science in Computer Technology at Institut Superieur des Etudes Technologique Kairouan.
+- 🎓 Pursuing a Licence of Science in Computer Technology at Higher Institute of Technological Studies Kairouan.
 
 ---
 
@@ -30,24 +28,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🗃️ Databases
-(Not mentioned in CV)
-
----
-
-## 📱 Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| University Club Website | Portfolio website for the university club | HTML, CSS, JavaScript |
-
----
-
-## 🏆 Awards & Achievements
-
-- Achieved 3rd place at ISET Kr Coding Day, focused on AI innovation.
-
----
 
 ## 📫 Contact
 
