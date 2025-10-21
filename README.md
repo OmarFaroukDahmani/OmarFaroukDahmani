@@ -52,12 +52,12 @@
 
 ## 🧾 Certificates
 
+- 🌐 **Node & Express Essentials** — *Coursera* (09/2025)  
+  Developed RESTful APIs, implemented middleware, and handled routing with Node.js and Express.
 - 🧩 **React Basics** — *Meta* (05/2025)  
   Built scalable React apps with reusable components, state management, and dynamic UI interactions.  
 - 🐍 **Python for Everybody** — *University of Michigan* (12/2021)  
   Mastered Python fundamentals, APIs, and database integration.  
-- 🌐 **Node & Express Essentials** — *Coursera* (09/2025)  
-  Developed RESTful APIs, implemented middleware, and handled routing with Node.js and Express.
 
 ---
 
