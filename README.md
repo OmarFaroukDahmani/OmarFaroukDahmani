@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://omardahmani.pages.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Omar Dahmani-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Omar Dahmani-violet?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.upwork.com/freelancers/~013077f0433bc70d9e">
     <img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
@@ -45,6 +45,8 @@
 ### 🗃️ Databases & Hosting
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
 
 ---
 
