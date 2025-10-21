@@ -8,9 +8,6 @@
   <a href="https://www.upwork.com/freelancers/~013077f0433bc70d9e">
     <img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
-  <a href="https://github.com/OmarFaroukDahmani">
-    <img src="https://img.shields.io/badge/GitHub-OmarFaroukDahmani-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/omar-farouk-dahmani/">
     <img src="https://img.shields.io/badge/LinkedIn-Omar%20Farouk%20Dahmani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
