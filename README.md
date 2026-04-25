@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Engineering Student | 🚀 Full-Stack Developer | 🔍 Lifelong Learner</h3>
 
 <p align="center">
-  <a href="https://omardahmani.pages.dev">
+  <a href="https://omardahmani.dev">
     <img src="https://img.shields.io/badge/Portfolio-Omar Dahmani-violet?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.upwork.com/freelancers/~013077f0433bc70d9e">
@@ -65,7 +65,7 @@
 
 📫 **Email:** [omar.farouk.dahmani.contact@gmail.com](mailto:omar.farouk.dahmani.contact@gmail.com)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/omar-farouk-dahmani/](https://www.linkedin.com/in/omar-farouk-dahmani/)  
-🌍 **Portfolio:** [omardahmani.pages.dev](https://omardahmani.pages.dev)  
+🌍 **Portfolio:** [omardahmani.dev](https://omardahmani.dev)  
 📱 **Phone:** +216 93 992 373  
 
 ---
